@@ -23,3 +23,4 @@ person_1 = Person.new("David", 49)
 person_2 = Person.new("Joe", 48)
 person_1.print_all_people
 person_2.print_all_people
+Person.pri
